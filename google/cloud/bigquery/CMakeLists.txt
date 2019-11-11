@@ -91,8 +91,8 @@ add_library(
     connection.h
     connection_options.cc
     connection_options.h
-        internal/storage_stub.cc
-        internal/storage_stub.h
+    internal/storage_stub.cc
+    internal/storage_stub.h
     internal/connection_impl.cc
     internal/connection_impl.h
     internal/stream_reader.h
